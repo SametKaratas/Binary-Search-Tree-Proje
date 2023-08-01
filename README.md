@@ -1,1 +1,1 @@
-Patika veri bilimi Merge Binary-Search-Tree projesi bulunuyor.
+Patika veri bilimi Binary-Search-Tree projesi bulunuyor.
